@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="newColor">#16B065</color>
+    <color name="backGroundColor">#FEF1E0</color>
+    <color name="ageTextbackGroundColor">#c846dce0</color>
+    <color name="ageTextColor">#FFFFFF</color>
+    <color name="ButtonTextColor">#CCD4D0</color>
+    <color name="SelectedDateColor">#AFF1D1</color>
+</resources>
