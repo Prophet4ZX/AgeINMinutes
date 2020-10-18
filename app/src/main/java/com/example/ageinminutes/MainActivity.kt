@@ -18,13 +18,11 @@ class MainActivity : AppCompatActivity() {
 
 }
 
-fun clickDatePicker(view: View) {
+/*fun clickDatePicker(view: View) {
 
    // DatePickerDialog(this, DatePickerDialog, DatePickerDialog.OnDateSetListener())
     //2
 
 }
-fun main() {
-    var a = "hello"
-    println(a)
-}
+
+ */
